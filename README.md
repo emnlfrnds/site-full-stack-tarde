@@ -2,15 +2,23 @@
 
 Este repositório foi criado para o desenvolvimento de um website como **exercício prático** do curso **Desenvolvedor Full Stack**, promovido pela **Petrobras** em parceria com o **SENAI**.
 
-O objetivo principal é aplicar na prática os conceitos de Front-end e Back-end estudados em aula, integrando as tecnologias em uma aplicação web funcional, responsiva e bem estruturada.
+O objetivo principal é aplicar na prática os conceitos de Front-end estudados em aula, integrando as tecnologias em uma aplicação web funcional e bem estruturada.
 
-### 👥 Equipe de Desenvolvimento
+### Habilidades em prática
+
+* **Git**
+* **GitHub**
+* **Trello**
+* **Metodologias Ágeis**
+* **HTML5**
+* **CSS3**
+* **JavaSccript**
+
+### Equipe de Desenvolvimento
 O projeto está a ser desenvolvido colaborativamente por uma equipa de 3 membros:
-* **Emanoel Fernandes** — Git/Responsabilidade (ex: Front-end)
-* **Enzo Capitani** — Git/Responsabilidade (ex: Back-end)
-* **Henry Kanemoto** — Git/Responsabilidade (ex: Design/Banco de Dados)
+* **Emanoel Fernandes**
+* **Enzo Capitani**
+* **Henry Kanemoto**
 
-### 🛠️ O que estamos a utilizar?
+### O que estamos a utilizar?
 * **Front-end:** HTML5, CSS3, JavaScript.
-* **Back-end:** *(Inserir tecnologia aqui, ex: Node.js)*
-* **Banco de Dados:** *(Inserir banco aqui, ex: PostgreSQL)*

@@ -4,63 +4,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desenvolvedor Full Stack</title>
     <link rel="stylesheet" href="styles/style.css">
+    <title>Site Full Stack Tarde</title>
 </head>
 
 <body>
-    <div id="interface">
-        <header id="header">
-
-            <section id="principal">
-                <hgroup>
-                    <h1>Ponteirinhos</h1>
-                    <h2>main.sempre</h2>
-                </hgroup>
-            </section>
-
-            <section>
-                <hgroup>
-                    <h2>
-                        <petrobras>PETROBRÁS</petrobras>
-                        <senai>SENAI</senai>
-                    </h2>
-                    <h3 class="direita">Atualizado em 25/06/2026</h3>
-                </hgroup>
-
-                <h2>Quem nós somos?</h2>
-                <p>
-                    Nos somo legais
-                </p>
-
-                <h2>Equipe</h2>
-                <table id="tabela-equipe">
-                    <caption>
-                        Integrantes de Ponteirinhos
-                        <span>Jun/2026</span>
-                    </caption>
-
-                    <tr>
-                        <td class="coluna-esquerda" rowspan="3">Membros</td>
-                        <td class="coluna-direita">Enzo Capitani</td>
-                    </tr>
-                    <tr>
-                        <td class="coluna-direita">Enzo Emanoel</td>
-                    </tr>
-                    <tr>
-                        <td class="coluna-direita">Henry Kanemoto</td>
-                    </tr>
-                </table>
-            </section>
-        </header>
-
-        <footer>
+    <header>
+        <h1>Projeto Site Full Stack Tarde</h1>
+        <p>Exemplo de projeto utilizando Git, GitHub e Trello</p>
+    </header>
+    <main>
+        <section id="titulo">
+            <h2>Sobre o projeto</h2>
             <p>
-                <i>Copyright &copy; 2026 - by Ponteirinhos |</i>
-                <a href="https://github.com/emnlfrnds/site-full-stack-tarde.git" target="_blank">Repositório GitHub</a>
+                Este projeto foi criado para praticar versionamento com Git, hospedagem no GitHub e gerenciamento de
+                tarefas com Trello.
             </p>
-        </footer>
-    </div>
+        </section>
+        <section id="equipe">
+            <h2>Equipe</h2>
+            <ul>
+                <li>Enzo Capitani</li>
+                <li>Enzo Emanoel</li>
+                <li>Henry Kanemoto</li>
+            </ul>
+        </section>
+        <button onclick="mostrarMensagem()">
+            Clique Aqui
+        </button>
+        <p id="mensagem"></p>
+    </main>
+    <footer>
+        <p>
+            <i>Copyright &copy; 2026 - Ponteirinhos |</i>
+            <a href="https://github.com/emnlfrnds/site-full-stack-tarde.git" target="_blank">Repositório GitHub</a>
+        </p>
+    </footer>
+    <script src="scripts/script.js"></script>
 </body>
 
 </html>
