@@ -4,5 +4,5 @@ function mostrarMensagem() {
 }
 
 window.onload = () => {
-    alert("Bem vindo ao Site Full Stack tarde!");
+    alert("Bem vindo ao Site Full Stack tarde! Feito por Ponteirinhos!");
 }

@@ -2,7 +2,7 @@
 
 Este repositório foi criado para o desenvolvimento de um website como **exercício prático** do curso **Desenvolvedor Full Stack**, promovido pela **Petrobras** em parceria com o **SENAI**.
 
-O objetivo principal é aplicar na prática os conceitos de Front-end estudados em aula, integrando as tecnologias em uma aplicação web funcional e bem estruturada.
+O objetivo principal é aplicar na prática os conceitos de Front-end estudados em aula, integrando as tecnologias em uma aplicação web funcional e bem estruturada, conciliando qualidade com agilidade na entrega.
 
 ### Habilidades em prática
 
@@ -13,9 +13,9 @@ O objetivo principal é aplicar na prática os conceitos de Front-end estudados 
 * **HTML5**
 * **CSS3**
 * **JavaSccript**
+* **Entregas no prazo**
 
 ### Equipe de Desenvolvimento
-O projeto está a ser desenvolvido colaborativamente por uma equipa de 3 membros:
 * **Emanoel Fernandes**
 * **Enzo Capitani**
 * **Henry Kanemoto**
